@@ -1,0 +1,7 @@
+ This file tells Git which files and folders to ignore.
+# Added folders for large data inputs and intermediate processing.
+
+Input_data/
+Processing_data/
+.DS_Store
+```
