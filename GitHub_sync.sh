@@ -1,3 +1,6 @@
+# launch with
+# bash GitHub_sync.sh 
+
 #!/bin/bash
 #
 # A simple script to sync the EU_Forest_C_Input_NextGenC repository on Puhti.
